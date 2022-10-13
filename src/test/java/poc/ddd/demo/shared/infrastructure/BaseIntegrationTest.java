@@ -10,7 +10,9 @@ import org.springframework.test.context.DynamicPropertySource;
 import org.springframework.test.context.junit.jupiter.SpringExtension;
 import org.springframework.test.web.servlet.MockMvc;
 import org.testcontainers.containers.MySQLContainer;
+import org.testcontainers.containers.RabbitMQContainer;
 import org.testcontainers.junit.jupiter.Container;
+import org.testcontainers.utility.DockerImageName;
 import poc.ddd.demo.DemoApplication;
 
 @ExtendWith(SpringExtension.class)
@@ -34,6 +36,8 @@ public class BaseIntegrationTest {
             .withUsername("admin")
             .withPassword("admin");
 
+    @Container
+    public static RabbitMQContainer rabbitmq = new RabbitMQContainer(DockerImageName.parse("rabbitmq:3-management"));
     /*@DynamicPropertySource
     public static void properties(DynamicPropertyRegistry registry) {
         registry.add("spring.datasource.url", mySqlDB::getJdbcUrl);

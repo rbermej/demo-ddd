@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: poc.ddd.demo.films.infrastructure.FilmGetRestControllerIntegrationTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 33.687 s - in poc.ddd.demo.films.infrastructure.FilmGetRestControllerIntegrationTest
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 47.564 s - in poc.ddd.demo.films.infrastructure.FilmGetRestControllerIntegrationTest
