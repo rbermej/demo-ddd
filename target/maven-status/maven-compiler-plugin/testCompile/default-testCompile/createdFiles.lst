@@ -1,0 +1,8 @@
+poc\ddd\demo\DemoApplicationTests.class
+poc\ddd\demo\films\infrastructure\FilmGetRestControllerIntegrationTest.class
+poc\ddd\demo\shared\infrastructure\BaseIntegrationTest.class
+poc\ddd\demo\films\application\find\FindFilmQueryHandlerTest.class
+poc\ddd\demo\films\application\increment\FilmsScoreUpdaterTest.class
+poc\ddd\demo\films\application\create\FilmCreatorTest.class
+poc\ddd\demo\films\application\create\CreateFilmCommandHandlerTest.class
+poc\ddd\demo\films\application\find\FilmFinderTest.class

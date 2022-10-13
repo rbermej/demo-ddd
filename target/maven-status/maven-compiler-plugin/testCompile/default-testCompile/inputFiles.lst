@@ -1,0 +1,8 @@
+C:\dev\code\adevinta\demo-ddd\src\test\java\poc\ddd\demo\films\application\increment\FilmsScoreUpdaterTest.java
+C:\dev\code\adevinta\demo-ddd\src\test\java\poc\ddd\demo\films\application\create\FilmCreatorTest.java
+C:\dev\code\adevinta\demo-ddd\src\test\java\poc\ddd\demo\films\application\find\FilmFinderTest.java
+C:\dev\code\adevinta\demo-ddd\src\test\java\poc\ddd\demo\shared\infrastructure\BaseIntegrationTest.java
+C:\dev\code\adevinta\demo-ddd\src\test\java\poc\ddd\demo\films\infrastructure\FilmGetRestControllerIntegrationTest.java
+C:\dev\code\adevinta\demo-ddd\src\test\java\poc\ddd\demo\DemoApplicationTests.java
+C:\dev\code\adevinta\demo-ddd\src\test\java\poc\ddd\demo\films\application\find\FindFilmQueryHandlerTest.java
+C:\dev\code\adevinta\demo-ddd\src\test\java\poc\ddd\demo\films\application\create\CreateFilmCommandHandlerTest.java
