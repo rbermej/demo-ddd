@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: poc.ddd.demo.films.application.increment.FilmsScoreUpdaterTest
--------------------------------------------------------------------------------
-Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.051 s - in poc.ddd.demo.films.application.increment.FilmsScoreUpdaterTest
